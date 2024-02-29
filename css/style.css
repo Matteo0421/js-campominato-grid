@@ -3,20 +3,17 @@
 }
 .main-wrapper{
   height: 100vh;
-  width: 100vw;
   background-color: white;
 }
 
 .row-head{
   height: 10%;
-  width: 100vw;
 
 }
 .row-main{
   height: 80%;
-  width: 100vw;
 
-  background-color: aqua;
+  background-color: rgb(184, 205, 195);
 }
 .row-footer{
   height: 10%;
@@ -29,13 +26,13 @@
   width: 500px;
   height: 500px;
   aspect-ratio: 1;
-  background-color: rgba(80, 9, 108, 0.779);
+  background-color: rgb(228, 228, 228);
 }
 
 .square{
   width: 50px;
   height: 50px;
-  background-color: rgba(22, 119, 129, 0.953);
+  background-color: rgb(124, 172, 193);
   border: 2px solid white;
   display: flex;
   align-items: center;
@@ -50,5 +47,5 @@
 }
 
 .square.odd{
-  background-color: rgba(99, 99, 238, 0.7);
+  background-color: rgba(166, 166, 238, 0.7);
 }
