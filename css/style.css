@@ -1,0 +1,30 @@
+.main-wrapper{
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
+
+.row-head{
+  height: 10%;
+  width: 100vw;
+
+}
+.row-main{
+  height: 80%;
+  width: 100vw;
+
+  background-color: aqua;
+}
+.row-footer{
+  height: 10%;
+  width: 100vw;
+
+  background-color: white;
+}
+
+.grid-container{
+  width: 500px;
+  
+  aspect-ratio: 1;
+  background-color: blue;
+}
