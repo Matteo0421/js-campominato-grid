@@ -31,6 +31,7 @@ function getSquare(numero){
     this.classList.toggle(getOddEvenClass(numero));
 
   })
+  
   return sq;
 }
 
